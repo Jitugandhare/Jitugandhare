@@ -10,7 +10,7 @@
 - 💬 Ask me about React.js, JavaScript
 - 📫 How to reach me: [jitugandhare@gmail.com](mailto:jitugandhare@gmail.com)
 - ⚡ Fun fact: .
-- 👨‍💻 Know more about me 👉 [Portfolio](https://Jitugandhare.github.io/)
+- 👨‍💻 Know more about me 👉 https://Jitugandhare.github.io/
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
