@@ -11,17 +11,17 @@
 - 💬 Ask me about react.js, javscript
 - 📫 How to reach me: jitugandhare@gmail.com
 - ⚡ Fun fact: .
-- 👨‍💻 Know more about me 👉 https://Jitugandhare.github.io/
+- 👨‍💻 Know more about me 👉https://Jitugandhare.github.io/
 - 🏠 Address: [Indore,India]
-
  
  <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
-
- ## Profile Description :
+ 
+## Profile Description :
 - 🚀 Full Stack Web Developer passionate about creating efficient, scalable, and responsive web applications.
 
+ 
  
  ## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/jitu-gandhare-6680ab201/" target="_blank">
@@ -35,6 +35,36 @@
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=jitugandhare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<h3 align="left">Pinned Repositories:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/Jitugandhare/utopian-magic-4570" target="_blank">
+      <b>utopian-magic-4570</b>
+    </a>
+    
+    ## [Deployed Link] :  https://frolicking-bubblegum-e45b74.netlify.app/
+  </li>
+  <li>
+    <a href="https://github.com/Jitugandhare/utopian-magic-4570" target="_blank">
+      <b>utopian-magic-4570</b>
+    </a>
+    
+    ## [Deployed Link] :  https://frolicking-bubblegum-e45b74.netlify.app/
+  </li>
+  <li>
+    <a href="https://github.com/Jitugandhare/utopian-magic-4570" target="_blank">
+      <b>utopian-magic-4570</b>
+    </a>
+    
+    ## [Deployed Link] :  https://frolicking-bubblegum-e45b74.netlify.app/
+  </li>
+  
+  
+</ul>
+
+<p>Followers: [Current Number of Followers]</p>
 
 
 </br>
