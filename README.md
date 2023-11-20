@@ -12,7 +12,7 @@
 - 📫 How to reach me: jitugandhare@gmail.com
 - ⚡ Fun fact: .
 - 👨‍💻 Know more about me 👉 https://Jitugandhare.github.io/
-- 🏠 Address: [Indore, India]
+- 🏠 Address: [Indore,India]
 
  
  <div align="center">
