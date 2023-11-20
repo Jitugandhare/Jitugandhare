@@ -12,7 +12,7 @@
 - 📫 How to reach me: jitugandhare@gmail.com
 - ⚡ Fun fact: .
 - 👨‍💻 Know more about me 👉https://Jitugandhare.github.io/
-- 🏠 Address: [Indore,India]
+- 🏠 Address: Indore,India
  
  <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
@@ -64,7 +64,7 @@
   
 </ul>
 
-<p>Followers: [Current Number of Followers]</p>
+<p>Followers: 36</p>
 
 
 </br>
