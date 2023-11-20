@@ -18,7 +18,10 @@
  <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
- 
+
+ ## Profile Description :
+- 🚀 Full Stack Web Developer passionate about creating efficient, scalable, and responsive web applications.
+
  
  ## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/jitu-gandhare-6680ab201/" target="_blank">
