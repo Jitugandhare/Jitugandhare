@@ -4,9 +4,13 @@
 🤝 I’m looking for help with optimizing database performance and scaling web applications to handle a high volume of users.<br>
 🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
 💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
-⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!<br>
-🌐 Portfolio: https://jitugandhare.github.io
+
+🌐 Portfolio: [https://jitugandhare.github.io](https://jitugandhare.github.io)
 - 🏠 Address: Indore, India
+- 
+## 🚀 Motivation:
+Remember, every line of code you write is a step toward building something extraordinary. Embrace challenges, seek knowledge, and never underestimate the impact your work can have on the world. Keep coding, stay curious, and let your passion drive your success! 💻✨
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jitu-gandhare-6680ab201/) 
@@ -27,9 +31,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jitugandhare&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
-## 🚀 Motivation:
-Remember, every line of code you write is a step toward building something extraordinary. Embrace challenges, seek knowledge, and never underestimate the impact your work can have on the world. Keep coding, stay curious, and let your passion drive your success! 💻✨
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jitugandhare&label=Checked%20out%20by&color=5&pretty=false)](https://visitcount.itsvg.in)
