@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Jitu Gandhare</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=29F742&background=9FFF3A00&center=true&vCenter=true&width=435&lines=FULL+STACK+WEB+DEVELOPER;MERN+DEVELOPER;QUICK+LEARNER"/>
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ </div>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>
 👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.<br>
