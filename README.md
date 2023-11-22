@@ -15,9 +15,11 @@
 
 🌐 Portfolio: [https://jitugandhare.github.io](https://jitugandhare.github.io)
 - 🏠 Address: Indore, India
-- 
+  
 ## 🚀 Motivation:
 Remember, every line of code you write is a step toward building something extraordinary. Embrace challenges, seek knowledge, and never underestimate the impact your work can have on the world. Keep coding, stay curious, and let your passion drive your success! 💻✨
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampar" /> </p>
 
 
 ## 🌐 Socials:
